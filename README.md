@@ -1,7 +1,6 @@
 - 👋 Hi, I’m fabiha
-- 👀 I’m interested in finding Bugs and doing Automation
+- 👀 I’m interested in Software Testing and Automation
 - 🌱 I’m currently learning Web UI Automation And Rest Api Automation 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fabiha.marzan@gmail.com
 
 <!---
